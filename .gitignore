@@ -1,0 +1,9 @@
+download/
+temp_splits/
+
+# Ignore semua file dengan ekstensi tertentu
+*.txt
+*.env
+*.json
+*.bag
+*.log
