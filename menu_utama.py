@@ -1446,7 +1446,7 @@ class DownloadBot:
 # Main function
 async def main():
     # Konfigurasi
-    BOT_TOKEN = "7732517146:AAFxfT074Ma8kzWPWFXZgTR978hCAat-c0U"  # Token bot kamu
+    BOT_TOKEN ==  "YOUR_BOT_TOKEN_HERE" # Token bot kamu
     
     if BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
         print("❌ Harap setting BOT_TOKEN terlebih dahulu!")
